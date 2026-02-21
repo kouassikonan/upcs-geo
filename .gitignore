@@ -1,3 +1,8 @@
+# Directory
+dataset/test
+dataset/train
+dataset/valid
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
